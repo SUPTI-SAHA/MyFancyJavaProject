@@ -38,9 +38,9 @@ class Test
 {
 	 public static void main(String[] args) throws Exception
 	 {
-		 String dbUser="admin";
-		 String dbPassword="admin";
-		 String dbName="tesDb";
+		 String dbUser="supti";
+		 String dbPassword="shruti";
+		 String dbName="1234";
 		 DbConnection connection=DbConnection.getDbConnection(dbUser, dbPassword, dbName);
 	 }
 }
